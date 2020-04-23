@@ -10,7 +10,9 @@ models = {
     'meditations': '1-9TiibA0_dqD7dqyJnBNBrZnLuegAa_E',
     'tolkien': '1-0lq9cGClSqcvcI3WqGkxdmAdoWrhD4e',
     'asimov': '1yg4bORU_KpV4h_aVnbMaekulK6ShpCS1',
-    'hemingway': '1-0p2I9SCL37JEaIlIGhasbvOc4lxQIq6'
+    'hemingway': '1-0p2I9SCL37JEaIlIGhasbvOc4lxQIq6',
+    'ursula-k-leguin': '1FRtM-kXn79COdVSautufne3dagViOcgM',
+    'garcia-marquez': '17S_FznIp1q-Px4D5sYIBi8RGcTsqkk7I'
 }
 
 
